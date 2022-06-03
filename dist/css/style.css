@@ -53,7 +53,7 @@ a {
 
 /* hero section*/
 .hero {
-    background-image: url("/img/img_friends_barkley.jpeg");
+    background-image: url("../../img/img_friends_barkley.jpeg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
