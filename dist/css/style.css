@@ -71,3 +71,26 @@ a {
     background-color: rgba(37, 39, 71, 0.7);
     z-index: -1;
 }
+
+
+/* gallery section*/
+.gallery::after {
+    content: "ギャラリー";
+    margin: 0 auto 0;
+}
+
+/* icon_section */
+#title_icon {
+
+    color: black;
+}
+
+#title_icon_2 {
+
+    color: black;
+}
+
+.icon_section::after {
+    content: "ギャラリー";
+    margin: 0 auto 0;
+}
